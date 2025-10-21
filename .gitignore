@@ -43,3 +43,7 @@
 # macos garbage
 .DS_Store
 
+# Extras
+build/
+.vs/
+.vscode/
