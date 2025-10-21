@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# macos garbage
+.DS_Store
+
